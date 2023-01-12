@@ -3,4 +3,4 @@
 
 **LG Brebeuf**
 
-![image](https://user-images.githubusercontent.com/122419060/211956733-78ccd412-4ac7-442f-bac3-3f9edc07ecc2.png)
+![image](https://user-images.githubusercontent.com/122419060/211957218-777388b3-52a6-4e4f-955e-8c2e407e7d87.png)
