@@ -1,6 +1,6 @@
 # Hello, Welcome!
 
-**LG Brebeuf**
+ **LG Brebeuf**
 
 | Meal |Monday | Tuesday | Wednesday | Thursday | Friday |
 |------|-------|---------|-----------|----------|--------|
