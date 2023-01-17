@@ -11,4 +11,4 @@
 |-Escapism (Sped Up)-|
 |-ANTIFRAGILE-|
 |-Blue Flame-|
-- basta lahat nasa playlist ko-
+- basta lahat nasa playlist ko
