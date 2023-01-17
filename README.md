@@ -6,9 +6,3 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1_GN4d4LpgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-*Fave Songs to Vibe/Dance to atm :)*
-|------------------------------|
-|-Escapism (Sped Up)-|
-|-ANTIFRAGILE-|
-|-Blue Flame-|
-- basta lahat nasa playlist ko
